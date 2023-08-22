@@ -1,0 +1,5 @@
+{{#user}}
+Name: Aastha
+Skills: HTML, CSS, JS
+Email: aastha0282002@gmail.com
+{{/user}}
